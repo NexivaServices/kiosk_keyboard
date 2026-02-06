@@ -1,6 +1,6 @@
 name: kiosk_keyboard_plus
 description: A customizable on-screen keyboard widget for Flutter kiosk applications with support for numeric, text, and alphanumeric input modes.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/NexivaServices/kiosk_keyboard
 repository: https://github.com/NexivaServices/kiosk_keyboard
 issue_tracker: https://github.com/NexivaServices/kiosk_keyboard/issues
