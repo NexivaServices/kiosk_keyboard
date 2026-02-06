@@ -39,12 +39,15 @@ A highly customizable on-screen keyboard widget for Flutter kiosk applications. 
 ## Screenshots
 
 ### Numeric Keyboard
+
 ![Numeric Keyboard](https://raw.githubusercontent.com/NexivaServices/kiosk_keyboard_plus/main/screenshots/numeric_keyboard.png)
 
 ### Text Keyboard
+
 ![Text Keyboard](https://raw.githubusercontent.com/NexivaServices/kiosk_keyboard_plus/main/screenshots/text_keyboard.png)
 
 ### Alphanumeric Keyboard
+
 ![Alphanumeric Keyboard](https://raw.githubusercontent.com/NexivaServices/kiosk_keyboard_plus/main/screenshots/alphanumeric_keyboard.png)
 
 ## Installation
