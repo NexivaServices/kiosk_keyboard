@@ -1,5 +1,5 @@
-name: kiosk_keyboard_example
-description: Example app for kiosk_keyboard package
+name: kiosk_keyboard_plus_example
+description: Example app for kiosk_keyboard_plus package
 publish_to: "none"
 
 version: 1.0.0
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  kiosk_keyboard:
+  kiosk_keyboard_plus:
     path: ../
 
 dev_dependencies:

@@ -1,8 +1,8 @@
-# Kiosk Keyboard
+# Kiosk Keyboard Plus
 
 A highly customizable on-screen keyboard widget for Flutter kiosk applications. Perfect for touch-screen applications, registration systems, and any scenario where you need a custom keyboard interface.
 
-[![pub package](https://img.shields.io/pub/v/kiosk_keyboard.svg)](https://pub.dev/packages/kiosk_keyboard)
+[![pub package](https://img.shields.io/pub/v/kiosk_keyboard_plus.svg)](https://pub.dev/packages/kiosk_keyboard_plus)
 
 ## Features
 
@@ -36,13 +36,24 @@ A highly customizable on-screen keyboard widget for Flutter kiosk applications. 
 - LayoutBuilder-based responsive behavior
 - Consistent appearance across all devices
 
+## Screenshots
+
+### Numeric Keyboard
+![Numeric Keyboard](https://raw.githubusercontent.com/NexivaServices/kiosk_keyboard_plus/main/screenshots/numeric_keyboard.png)
+
+### Text Keyboard
+![Text Keyboard](https://raw.githubusercontent.com/NexivaServices/kiosk_keyboard_plus/main/screenshots/text_keyboard.png)
+
+### Alphanumeric Keyboard
+![Alphanumeric Keyboard](https://raw.githubusercontent.com/NexivaServices/kiosk_keyboard_plus/main/screenshots/alphanumeric_keyboard.png)
+
 ## Installation
 
 Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  kiosk_keyboard: ^1.0.0
+  kiosk_keyboard_plus: ^1.0.0
 ```
 
 Then run:
@@ -57,7 +68,7 @@ flutter pub get
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:kiosk_keyboard/kiosk_keyboard.dart';
+import 'package:kiosk_keyboard_plus/kiosk_keyboard_plus.dart';
 
 class MyKeyboardScreen extends StatefulWidget {
   @override
@@ -104,7 +115,7 @@ class _MyKeyboardScreenState extends State<MyKeyboardScreen> {
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:kiosk_keyboard/kiosk_keyboard.dart';
+import 'package:kiosk_keyboard_plus/kiosk_keyboard_plus.dart';
 
 class TextFieldKeyboardExample extends StatefulWidget {
   @override

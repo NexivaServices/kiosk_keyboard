@@ -1,6 +1,6 @@
-# Kiosk Keyboard Example
+# Kiosk Keyboard Plus Example
 
-This example demonstrates how to use the `kiosk_keyboard` package in a Flutter application.
+This example demonstrates how to use the `kiosk_keyboard_plus` package in a Flutter application.
 
 ## Features Demonstrated
 

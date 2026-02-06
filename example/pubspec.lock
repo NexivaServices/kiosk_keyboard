@@ -67,7 +67,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  kiosk_keyboard:
+  kiosk_keyboard_plus:
     dependency: "direct main"
     description:
       path: ".."

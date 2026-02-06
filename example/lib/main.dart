@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kiosk_keyboard/kiosk_keyboard.dart';
+import 'package:kiosk_keyboard_plus/kiosk_keyboard_plus.dart';
 
 void main() {
   runApp(const KeyboardExampleApp());
