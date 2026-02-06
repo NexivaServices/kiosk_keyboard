@@ -1,0 +1,5 @@
+# Ignore original development files
+
+keyboard.dart
+keyboard_example.dart
+PUBLISHING.md
